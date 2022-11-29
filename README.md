@@ -6,7 +6,7 @@ Projeto desenvolvido em grupo. Neste projeto criamos um site de vendas de um sis
 
 
 
-Link de acesso ao lik do projeto: https://drive.google.com/drive/folders/1Rf5A4320aTUbB0VeC9Pa8F7ftPRo2tRh?usp=sharing
+Link de acesso ao projeto: https://drive.google.com/drive/folders/1Rf5A4320aTUbB0VeC9Pa8F7ftPRo2tRh?usp=sharing
 
 
 link de acesso a aprensentação do projeto em PDF: https://drive.google.com/file/d/1mKNOPR1sCzUk9MlzOCdjESnnMqA57qmT/view?usp=sharing
